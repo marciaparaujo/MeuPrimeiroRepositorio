@@ -1,5 +1,7 @@
 import UIKit
 
-var greeting = "Hello, playground"
-print("Consegui fazer o Push do Git!!!")
+func Somar(numA:Double, numB: Double) {
+var resultadoDaSoma = numA + numB
+ 
+}
 
